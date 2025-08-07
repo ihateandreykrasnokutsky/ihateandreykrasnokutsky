@@ -6,8 +6,8 @@ I code neural networks from scratch - to *truly* grasp what’s happening under 
 ___
 **🧐 My Focus Areas**
 
-**Neural Networks** - all kinds of networks and training logic written without high-level libraries\
-**ML Diary** - daily learning logs and my own ML textbook based on the things I *found interesting*
+**ML Fundamentals**: what is known in the field of machine learning\
+**AGI Research Pathways**: how to advance toward Artificial General Intelligence
 ___
 **🔧 Selected Projects**
 
