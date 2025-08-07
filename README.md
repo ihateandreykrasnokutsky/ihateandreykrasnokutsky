@@ -27,8 +27,8 @@ I document my progress to **share**, not hoard. If you find something helpful or
 
 ## 📬 Contact
 
-- Email: your@email.com
+- Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL
 - (Or just open an issue or star a project — I see it.)
 
 ---
-*Built with caffeine, curiosity, and a touch of obsession.*
+*Built with beta-alanine, curiosity, and a touch of obsession.*
