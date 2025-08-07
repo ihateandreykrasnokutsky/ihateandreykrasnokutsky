@@ -3,12 +3,12 @@
 I'm a self-taught machine learning engineer on a mission to understand, build, and improve intelligent systems from the ground up.
 
 I don’t rely on black-box frameworks.  
-I code neural networks from scratch — to *truly* grasp what’s happening under the hood.
+I code neural networks from scratch - to *truly* grasp what’s happening under the hood.
 
 ## 🧠 My Focus Areas
 
-- **Neural Networks** — all kinds of networks and training logic written without high-level libraries
-- **ML Diary** — daily learning logs and my own ML textbook based on the things I *find interesting*
+- **Neural Networks** - all kinds of networks and training logic written without high-level libraries
+- **ML Diary** - daily learning logs and my own ML textbook based on the things I *find interesting*
 
 ## 🔧 Selected Projects
 
@@ -18,14 +18,14 @@ I code neural networks from scratch — to *truly* grasp what’s happening unde
 
 ## 📜 Philosophy
 
-I love artificial intelligence — not just as a tool, but as a concept.\
+I love artificial intelligence - not just as a tool, but as a concept.\
 My goal is to help people build AGI.\
 This is what drives my learning.
 
 ## 📬 Contact
 
 - Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL
-- (Or just open an issue or star a project — I see it.)
+- (Or just open an issue or star a project - I see it.)
 
 ---
 *Built with beta-alanine, curiosity, and a touch of obsession.*
