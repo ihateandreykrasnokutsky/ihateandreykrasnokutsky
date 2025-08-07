@@ -14,7 +14,7 @@ I code neural networks from scratch — to *truly* grasp what’s happening unde
 
 ## 🔧 Selected Projects
 
-- 🧱 [Folder programs that I wrtite and study](https://github.com/ihateandreykrasnokutsky/neural_networks_python): programs that I rewrite from ChatGPT/other LLM's code and study, or write myself, based on what I know
+- 🧱 [Programs that I write and study](https://github.com/ihateandreykrasnokutsky/neural_networks_python): programs that I write myself, based on what I know, or rewrite from ChatGPT/other LLM's code and study
 - 📓 [ML Diary](https://github.com/ihateandreykrasnokutsky/my_ml_notes/blob/main/001.%20ml_diary.md): notes about what I do each day I study
 - 📓 [ML textbook](https://github.com/ihateandreykrasnokutsky/my_ml_notes/blob/main/002.%20ml_textbook.md): a pile of information I found and found interesting
 
