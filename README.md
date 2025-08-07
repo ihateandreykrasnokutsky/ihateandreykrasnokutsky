@@ -23,4 +23,4 @@ This is what drives my learning.
 ___
 📬 Contact
 
-Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL \
+Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL
