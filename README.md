@@ -24,7 +24,6 @@ ___
 📬 Contact
 
 Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL \
-(Or just open an issue or star a project - I see it.)
 
 ___
 *Built with beta-alanine, curiosity, and a touch of obsession.*
