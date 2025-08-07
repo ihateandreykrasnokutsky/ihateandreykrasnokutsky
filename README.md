@@ -20,10 +20,9 @@ I code neural networks from scratch — to *truly* grasp what’s happening unde
 
 ## 📜 Philosophy
 
-> “I study not to prove I’m smart, but to make something smarter than I am.”
-
-Learning ML is my craft — not just a career goal.  
-I document my progress to **share**, not hoard. If you find something helpful or want to collaborate, let me know.
+I love artificial intelligence — not just as a tool, but as a concept.\
+My goal is to help people build AGI: something truly intelligent, beyond narrow tasks.\  
+This is what drives my learning and my work.
 
 ## 📬 Contact
 
