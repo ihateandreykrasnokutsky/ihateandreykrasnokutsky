@@ -23,7 +23,7 @@ This is what drives my learning.
 ___
 📬 Contact
 
-Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL\
+Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL \
 (Or just open an issue or star a project - I see it.)
 
 ___
