@@ -8,7 +8,6 @@ I code neural networks from scratch — to *truly* grasp what’s happening unde
 ## 🧠 My Focus Areas
 
 - **Neural Networks** — all kinds of networks and training logic written without high-level libraries
-- **Training Loops** — building forward/backward passes manually
 - **ML Diary** — daily learning logs and my own ML textbook based on the things I *find interesting*
 
 ## 🔧 Selected Projects
