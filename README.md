@@ -24,6 +24,3 @@ ___
 📬 Contact
 
 Facebook: https://www.facebook.com/ihateandreykrasnokutsky?mibextid=ZbWKwL \
-
-___
-*Built with beta-alanine, curiosity, and a touch of obsession.*
