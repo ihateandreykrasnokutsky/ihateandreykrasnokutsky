@@ -21,7 +21,7 @@ I code neural networks from scratch — to *truly* grasp what’s happening unde
 ## 📜 Philosophy
 
 I love artificial intelligence — not just as a tool, but as a concept.\
-My goal is to help people build AGI.\  
+My goal is to help people build AGI.\
 This is what drives my learning and my work.
 
 ## 📬 Contact
