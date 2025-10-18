@@ -1,5 +1,6 @@
 **Hey, I'm Andrey 👋**
 
+I grew up collecting glass bottles to buy ice cream 🍦, but later during the early school years I spent most of my time lost in physics and fiction books, and experimenting with electricity and electronics.
 I'm a self-taught machine learning engineer on a mission to understand, build, and improve intelligent systems from the ground up.\
 I don’t rely on black-box frameworks.\
 I code neural networks from scratch - to *truly* grasp what’s happening under the hood.
