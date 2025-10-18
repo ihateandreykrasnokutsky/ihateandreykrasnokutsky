@@ -1,6 +1,6 @@
 **Hey, I'm Andrey 👋**
 
-I grew up collecting glass bottles to buy ice cream 🍦, then spent my school years lost in physics⚛ and fiction books📚, tinkering with electricity⚡ and electronics🔌. Later came my obsession with engines⚙️, then computers모 — and when I discovered LLMs🤖 like ChatGPT and Gemini, I knew I had to understand and build such systems myself.\
+I grew up climbing trees and collecting glass bottles to buy ice cream 🍦, then spent my school years lost in physics and fiction books, tinkering with electricity and electronics. Later came my obsession with engines, then computers — and when I discovered LLMs🤖 like ChatGPT and Gemini, I knew I had to understand and build such systems myself.\
 I'm a self-taught machine learning engineer on a mission to understand, build, and improve intelligent systems from the ground up.\
 I don’t rely on black-box frameworks.\
 I code neural networks from scratch - to *truly* grasp what’s happening under the hood.
